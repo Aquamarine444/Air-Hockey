@@ -1,0 +1,559 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1683118684617621, "dur":2213, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118684619848, "dur":110, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1683118684619969, "dur":24, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1683118684619993, "dur":1681, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1683118684621705, "dur":593, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118684622298, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350164, "dur":8, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350172, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350200, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350203, "dur":157, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350360, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350363, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350382, "dur":79, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350461, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350472, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350475, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350481, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350483, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350493, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350495, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350503, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350506, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350513, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350515, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350521, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350523, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350531, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350533, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350539, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350541, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350546, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350548, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350554, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350556, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350561, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350562, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350568, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350570, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350574, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350576, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350582, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350584, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350589, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350591, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350597, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350599, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350604, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350625, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685350673, "dur":7374, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1683118684621498, "dur":819, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683118684622318, "dur":6741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683118684629060, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1683118684629165, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683118684894494, "dur":3582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1683118684898155, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683118684898203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683118684898208, "dur":7278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683118684905582, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683118684905671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683118684905679, "dur":14284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683118684920017, "dur":429946, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683118684621866, "dur":517, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683118684622383, "dur":6661, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683118684629044, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1683118684629213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683118684894460, "dur":5128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1683118684899660, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683118684900019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683118684900025, "dur":6710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683118684907121, "dur":440755, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683118685347881, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683118685347891, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683118685349682, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1683118685349683, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684622256, "dur":161, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684622417, "dur":6595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684629013, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1683118684629159, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684894226, "dur":2412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1683118684896736, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683118684896820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684896827, "dur":9114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683118684905994, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683118684906038, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684906043, "dur":8140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683118684914230, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1683118684914285, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683118684914289, "dur":3521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1683118684917857, "dur":432201, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683118684621727, "dur":642, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683118684622369, "dur":6863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683118684629232, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1683118684629314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683118684900276, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1683118684903264, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683118684903375, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683118684903384, "dur":15742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683118684919181, "dur":431161, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683118684622049, "dur":342, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683118684622392, "dur":6702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683118684629094, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1683118684629265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683118684896706, "dur":5190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1683118684901995, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683118684902238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683118684902246, "dur":19149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683118684921437, "dur":428818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684622308, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684622308, "dur":6243, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684628561, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1683118684628565, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684628667, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1683118684628672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684630107, "dur":5051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1683118684635165, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684635739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684636161, "dur":7527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684644081, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684644195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684644202, "dur":6741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684651025, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684651083, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684651089, "dur":7285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684658421, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684658490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684658495, "dur":4040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684662577, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684662624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684662629, "dur":4483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684667151, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684667220, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684667225, "dur":4531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684671799, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684671839, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684671843, "dur":4885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684676769, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684676835, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684676840, "dur":4862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684681741, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684681816, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118684681821, "dur":5027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118684686897, "dur":318829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118685005731, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683118685005822, "dur":11899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683118685017763, "dur":332394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683118684622431, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683118684622432, "dur":6628, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683118684629061, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1683118684629252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683118684894682, "dur":5760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1683118684900548, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683118684900636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683118684900643, "dur":12345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683118684913030, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1683118684913804, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683118684915645, "dur":6198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1683118684921880, "dur":428351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683118684622536, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683118684622537, "dur":6423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683118684628961, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1683118684629303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683118684898224, "dur":3615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1683118684901933, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683118684902015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683118684902044, "dur":7727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683118684909864, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683118684909955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683118684909963, "dur":12877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683118684922877, "dur":427305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683118684622635, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683118684622636, "dur":6243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683118684628880, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1683118684629043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683118684889511, "dur":3059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1683118684892683, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683118684892780, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683118684892787, "dur":6831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683118684899712, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683118684899809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683118684899816, "dur":21324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683118684921192, "dur":429114, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684622747, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684622747, "dur":6573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684629321, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684629481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684630979, "dur":4294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684635755, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684635860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684635865, "dur":13884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684649794, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684649838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684649843, "dur":2629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684652521, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684652565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684652570, "dur":4588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684657202, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684657246, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684657251, "dur":3555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684660849, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684660915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684660920, "dur":4582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684665541, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684665579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684665584, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684670440, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684670482, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684670487, "dur":4737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684675270, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684675310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684675316, "dur":3907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684679266, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684679308, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684679314, "dur":4530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684683889, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684683939, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118684683943, "dur":4235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118684688225, "dur":427204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118685115434, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683118685115443, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683118685117481, "dur":232291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684622938, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684622939, "dur":6344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684629283, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1683118684629424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684631384, "dur":10242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1683118684641678, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684641733, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684641793, "dur":2735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684644567, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684644737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684644743, "dur":5843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684650633, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684650682, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684650686, "dur":4723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684655458, "dur":323650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684979113, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683118684979123, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683118684980793, "dur":368993, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684622827, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684622828, "dur":6085, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684628914, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1683118684629028, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684890722, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1683118684893166, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683118684893210, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684893213, "dur":11187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683118684904446, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683118684904488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684904494, "dur":9170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683118684913712, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1683118684913764, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684913770, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1683118684915654, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1683118684915892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683118684915897, "dur":4474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1683118684920528, "dur":429400, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683118684622985, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683118684622986, "dur":5854, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683118684628841, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1683118684629027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683118684888365, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1683118684890013, "dur":42843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683118684932861, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683118684932870, "dur":1796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683118684934714, "dur":415066, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684623093, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684623094, "dur":5742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684628837, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1683118684628996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684887628, "dur":2982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1683118684890719, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683118684890810, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684890817, "dur":8808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683118684899722, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683118684899779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684899784, "dur":8282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683118684908120, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":14, "ts":1683118684908313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684908739, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":14, "ts":1683118684910971, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1683118684911329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684911336, "dur":3585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1683118684915018, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":14, "ts":1683118684915205, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683118684915208, "dur":5877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":14, "ts":1683118684921136, "dur":428742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684623136, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684623136, "dur":5647, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684628783, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1683118684629713, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684632570, "dur":10817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1683118684643442, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684643490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684643496, "dur":4546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684648123, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684648217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684648225, "dur":4549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684652819, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684652878, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684652885, "dur":4595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684657526, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684657574, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684657579, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684660675, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684660736, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684660741, "dur":4418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684665206, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684665277, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684665282, "dur":3937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684669265, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684669311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684669316, "dur":4770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684674134, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684674186, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684674191, "dur":4536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684678777, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684678824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684678829, "dur":5031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684683909, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684683958, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684683963, "dur":4297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684688303, "dur":999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684689306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684689314, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684690585, "dur":111127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684801718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684801729, "dur":2320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684804143, "dur":78365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684882516, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684882530, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684890174, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684890227, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684890232, "dur":2723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684892999, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684893055, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684893060, "dur":8560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684901664, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684901709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684901714, "dur":12273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683118684914034, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/level0.resS" }}
+,{ "pid":12345, "tid":15, "ts":1683118684914081, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683118684914086, "dur":5226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/level0.resS" }}
+,{ "pid":12345, "tid":15, "ts":1683118684919388, "dur":430578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684623250, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684623251, "dur":5365, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684628617, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1683118684628942, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684885536, "dur":2195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1683118684887818, "dur":896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683118684888717, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684888724, "dur":4280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683118684893100, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683118684893195, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684893202, "dur":8913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683118684902170, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683118684902246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684902252, "dur":5889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683118684908199, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1683118684908249, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684908306, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1683118684910180, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":16, "ts":1683118684910458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684910464, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":16, "ts":1683118684912618, "dur":1888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1683118684914509, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683118684914515, "dur":5224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1683118684919814, "dur":430175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684623311, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684623312, "dur":5274, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684628588, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":17, "ts":1683118684628818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684633318, "dur":5677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":17, "ts":1683118684639049, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":17, "ts":1683118684639161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684640058, "dur":8507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":17, "ts":1683118684648611, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684648663, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684648668, "dur":6152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684654871, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684654919, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684654925, "dur":4165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684659135, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684659178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684659183, "dur":4977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684664250, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684664315, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684664320, "dur":4263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684668627, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684668674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684668711, "dur":5544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684674302, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684674496, "dur":106, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684674609, "dur":3949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684678604, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684678655, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684678660, "dur":4826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684683532, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684683596, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684683601, "dur":3883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684687525, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684687575, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684687583, "dur":1740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684689368, "dur":169472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684858844, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684858853, "dur":2543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684861495, "dur":1398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684862897, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684862905, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684864509, "dur":1144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684865656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684865663, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684867279, "dur":29876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684897160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684897166, "dur":17862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":17, "ts":1683118684915095, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":17, "ts":1683118684915139, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1683118684915144, "dur":5171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":17, "ts":1683118684920361, "dur":429560, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684623388, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684623389, "dur":5201, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684628591, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1683118684629594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684632475, "dur":6680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1683118684639248, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684639340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684640001, "dur":3363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684643411, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684643462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684643468, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684645614, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684645660, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684645665, "dur":5786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684651509, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684651559, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684651564, "dur":4129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684655741, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684655797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684655803, "dur":3355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684659199, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684659242, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684659247, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684663239, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684663287, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684663292, "dur":4737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684668070, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684668113, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684668118, "dur":3913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684672076, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684672132, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684672137, "dur":4505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684676689, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684676736, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684676741, "dur":4350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684681151, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684681223, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684681228, "dur":5308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684686579, "dur":200870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684887454, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684887464, "dur":2578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684890086, "dur":1583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684891674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684891681, "dur":6857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684898592, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684898646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684898652, "dur":6296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684904990, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684905061, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1683118684905066, "dur":11778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":18, "ts":1683118684916886, "dur":433178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684623501, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684623501, "dur":5104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684628606, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":19, "ts":1683118684628822, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684633149, "dur":4297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":19, "ts":1683118684637500, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment.exe" }}
+,{ "pid":12345, "tid":19, "ts":1683118684637548, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684637553, "dur":6399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment.exe" }}
+,{ "pid":12345, "tid":19, "ts":1683118684644072, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684644231, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684644237, "dur":6226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684650512, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684650563, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684650568, "dur":2756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684653379, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684653434, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684653439, "dur":5328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684658811, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684658868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684658873, "dur":3790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684662712, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684662754, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684662759, "dur":4899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684667701, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684667776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684667782, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684671532, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684671582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684671587, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684675943, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684675986, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684675991, "dur":4478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684680509, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684680550, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118684680555, "dur":3899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118684684497, "dur":478334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118685162836, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1683118685162845, "dur":2376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":19, "ts":1683118685165267, "dur":184483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684623607, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684623608, "dur":4949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684628563, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":20, "ts":1683118684628750, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684631664, "dur":5302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":20, "ts":1683118684637087, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":20, "ts":1683118684637234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684637240, "dur":5657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":20, "ts":1683118684642951, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684643003, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684643008, "dur":3932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684646991, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684647042, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684647055, "dur":4666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684651827, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684651909, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684651914, "dur":4004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684655971, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684656020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684656025, "dur":4277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684660376, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684660428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684660433, "dur":4581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684665054, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684665100, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684665105, "dur":4291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684669436, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684669486, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684669491, "dur":4771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684674323, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684674505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684674511, "dur":4284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684678836, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684678942, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684678947, "dur":4487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684683509, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684683576, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684683582, "dur":4500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684688126, "dur":146273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684834445, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684834455, "dur":4212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684838709, "dur":1573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684840286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684840294, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684844312, "dur":88868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684933184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1683118684933191, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/miath/Desktop/AssignmentBuild/Physics Assignment_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":20, "ts":1683118684934970, "dur":414804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683118685359928, "dur":2803, "ph":"X", "name": "ProfilerWriteOutput" }
+,
